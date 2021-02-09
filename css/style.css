@@ -61,16 +61,24 @@ header {
     list-style: none;
 }
 
-.bold {    
-font-weight: bold;
+.bold {
+    font-weight: bold;
 }
 
 .symbol {
+    display: inline-block;
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+
 
 }
 
-.nopesymbol {
-
+.nope-symbol {
+    display: inline-block;
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
 }
 
 
