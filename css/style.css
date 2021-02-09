@@ -30,4 +30,24 @@ header {
     margin: 50px auto;
     padding: 15px;
     background-color: whitesmoke;
+    text-align:left;
+    
+}
+
+/*BOTTONS*/
+.botton1 {
+    padding: 2px;
+    margin-right: 5px;
+    color: whitesmoke;
+    background-color: turquoise;
+    border: 1px solid rgb(5, 170, 154);
+    border-radius: 5px;
+}
+
+.botton2 {
+    padding: 2px;
+    color: grey;
+    border: 1px solid grey;
+    border-radius: 5px;
+
 }
