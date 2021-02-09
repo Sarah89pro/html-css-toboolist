@@ -57,9 +57,22 @@ header {
 }
 
 /*LIST*/
-.bold {
+.list-style {
+    list-style: none;
+}
+
+.bold {    
 font-weight: bold;
 }
+
+.symbol {
+
+}
+
+.nopesymbol {
+
+}
+
 
 .normal {
 
